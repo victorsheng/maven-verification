@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fat-bb" />
+        <module name="fat-cc" />
+        <module name="fataa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fat-bb" target="8" />
+      <module name="fat-cc" target="1.5" />
+      <module name="fataa" target="1.5" />
+      <module name="fatbb" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

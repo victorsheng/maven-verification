@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fat-dependency/fatbb/fat-bb.iml" filepath="$PROJECT_DIR$/fat-dependency/fatbb/fat-bb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fat-dependency/fatcc/fat-cc.iml" filepath="$PROJECT_DIR$/fat-dependency/fatcc/fat-cc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fat-dependency/fataa/fataa.iml" filepath="$PROJECT_DIR$/fat-dependency/fataa/fataa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-verification.iml" filepath="$PROJECT_DIR$/maven-verification.iml" />
+    </modules>
+  </component>
+</project>
